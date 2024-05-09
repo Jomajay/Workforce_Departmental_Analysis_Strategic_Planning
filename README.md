@@ -1,6 +1,6 @@
 # SQL-Projects
 This project consist of so many questions used for practicing and enhancing my SQL skills.
-
+---
 # SQL Practice Exercises
 
 Welcome to the SQL Practice Exercises repository! Here, you'll find a collection of SQL exercises designed to sharpen your SQL querying skills. The exercises cover a range of topics including data filtering, aggregation, joins, date and time functions, and string manipulation. Each exercise is accompanied by a SQL script file containing a solution.
