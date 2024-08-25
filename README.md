@@ -1,4 +1,4 @@
-# **Project Title:**  **"Workforce and Departmental Analysis for Strategic Planning"**
+# **"Workforce and Departmental Analysis for Strategic Planning"**
 
 ---
 
