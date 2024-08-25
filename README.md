@@ -1,11 +1,25 @@
-# SQL-Projects
-This project consist of so many questions used for practicing and enhancing my SQL skills.
+# **Project Title:**
+
+"Workforce and Departmental Analysis for Strategic Planning"
+
 ---
-# SQL Practice Exercises
 
-Welcome to the SQL Practice Exercises repository! Here, you'll find a collection of SQL exercises designed to sharpen your SQL querying skills. The exercises cover a range of topics including data filtering, aggregation, joins, date and time functions, and string manipulation. Each exercise is accompanied by a SQL script file containing a solution.
+# Project Overview
+---
 
-## Exercise Categories:
+This project involves querying and analyzing data from a relational database to extract meaningful insights, particularly focusing on employee and departmental data. The SQL scripts perform a variety of operations, including:
+
+- **Data Retrieval**: Extracting comprehensive information from tables such as `countries`, `departments`, `employees`, `job_history`, `jobs`, `locations`, and `regions`.
+  
+- **Conditional Filtering**: Identifying employees based on specific criteria, such as salary ranges, department IDs, or hire dates. For instance, retrieving names and salaries of employees whose earnings fall outside of a specified range or who belong to particular departments.
+
+- **Complex Queries**: Combining conditions to filter employees by multiple attributes, such as those hired in a specific year, or those with particular characters in their names.
+
+- **Join Operations**: Integrating data across different tables to provide a more comprehensive view, like linking employee data with their corresponding job titles.
+
+The overall goal of this project is to develop a detailed understanding of the workforce distribution, salary structures, and departmental compositions within an organization. These insights are crucial for informed decision-making, workforce management, and strategic planning.
+
+---
 
 ### Restricting and Sorting data:
 In this section, you'll practice filtering and sorting data based on specific criteria such as salary range, department ID, hire date, and name patterns.
