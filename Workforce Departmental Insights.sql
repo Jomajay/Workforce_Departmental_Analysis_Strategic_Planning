@@ -398,9 +398,6 @@ SELECT
 FROM employees
 WHERE DAYNAME(hire_date) = 'monday';
 
-
-    
-    
     
 
 
