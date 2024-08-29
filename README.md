@@ -23,7 +23,7 @@ The overall goal of this project is to develop a detailed understanding of the w
 In this section, you'll practice filtering and sorting data based on specific criteria such as salary range, department ID, hire date, and name patterns.
 
 ### Aggregate Functions and Group by:
-Explore how to use aggregate functions like COUNT, SUM, MIN, MAX, and AVG along with GROUP BY clause to perform summary calculations on grouped data.
+Explore how to use aggregate functions like COUNT, SUM, MIN, MAX, and AVG along with the GROUP BY clause to perform summary calculations on grouped data.
 
 ### MySQL Joins:
 Learn how to combine data from multiple tables using different types of joins such as INNER JOIN, LEFT JOIN, and RIGHT JOIN to retrieve desired information.
@@ -36,18 +36,17 @@ Get hands-on experience with manipulating string data using functions like SUBST
 
 ## Usage:
 1. **Clone the Repository:** Clone this repository to my local machine.
-2. **Setup Database:** For the database set up, I will be making use of the MySQL (RDBMS) database environment (e.g., MySQL) to execute my SQL queries.
+2. **Setup Database:** For the database setup, I will be making use of the MySQL (RDBMS) database environment (e.g., MySQL) to execute my SQL queries.
 3. **Execute SQL Script:** Open the SQL script file for a specific exercise and execute it against your database to verify the results.
-4. **Practice and Learn:** For this project which is themed enhancing my SQL query writing, I will be using these exercises to practice SQL concepts and improve my querying skills.
-5. **What to Except:** Each questions comes in an advance way which requires me to make use of my critical thinking and analytical thinking ability to solve each problems.
+4. **What to Expect:** Each questions comes in an advance way which requires me to make use of my critical thinking and analytical thinking ability to solve each problems.
 ## Sample Exercise:
 
 ### Exercise 1: Display Employees' Names and Salaries
-#### Here are just some snippet of what the codes will look like.
+#### Here are just some snippets of what the codes will look like.
 **Objective:** Display the name (first_name, last_name) and salary for all employees whose salary is not in the range $10,000 through $15,000.
 
 **SQL Script (employees.sql):**
-```sql
+```SQL
 -- Display employees' names and salaries
 SELECT 
     first_name,
@@ -63,7 +62,7 @@ WHERE
 **Objective:** Calculate the total salaries payable to employees.
 
 **SQL Script (total_salary.sql):**
-```sql
+```SQL
 -- Calculate total salaries payable
 SELECT 
     SUM(salary) AS total_salary
